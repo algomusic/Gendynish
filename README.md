@@ -8,6 +8,6 @@ dynamic stochastic synthesis but is technically only ‘in the spirit’ of that
 and is not a literal reconstruction.
 
 A pin on the microprocessor can produce monophonic output. To maintain the independence 
-of the four pins outputs the timing of the pulse wave frequency was controlled within 
-the main loop of the code, not by manipulating the microprocessor timers. This is 
-inefficient computationally but allows more polyphonic flexibility. 
+for multiple pin output the timing of the pulse wave frequency is controlled within 
+the main loop of the code, rather than by manipulating the microprocessor timers. This is 
+inefficient computationally but allows more polyphonic timbral flexibility. 
