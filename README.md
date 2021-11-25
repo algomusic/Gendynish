@@ -15,4 +15,4 @@ inefficient computationally but allows more polyphonic timbral flexibility.
 Files are included for a monophonic version using the analog output on the PlayGround Express that provides more dynamic variation.
 
 Details are published in this academic paper:
-Brown, Andrew R. 2019. “Gendynish: Stochastic Synthesis on the Arduino.” In Proceedings of the International Symposium on Electronic Art. Gwangju, Korea: ISEA International.
+Brown, Andrew R. 2019. [“Gendynish: Stochastic Synthesis on the Arduino.”](https://research-repository.griffith.edu.au/bitstream/handle/10072/397128/Brown442028-Published.pdf?sequence=5) In Proceedings of the International Symposium on Electronic Art. Gwangju, Korea: ISEA International.
